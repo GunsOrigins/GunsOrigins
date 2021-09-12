@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there developers!👋 I'm GunsOrigins!
 
 <!--
 **GunsOrigins/GunsOrigins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🧑‍🎓 I'm currently a middle school student. Have fun with programming and music production.
+- 📕 I'm currently learning on making games with Godot Engine.
+- 📫 How to reach me: via email gunsorigins(at)gmail[gunsorigins@gmail.com] or @gunsorigins/@GunsOrigins on most social media platform.
+- 👨 He/Him
+- ⏰ Active response hours: 10:00 - 18:00 GMT+7
